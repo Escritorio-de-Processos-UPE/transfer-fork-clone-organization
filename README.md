@@ -1,3 +1,8 @@
+> **Referência Complementar:**  
+> Para um guia introdutório sobre o uso básico do Git, consulte o repositório:  
+> [comandos-git – Tutorial Básico de Git](https://github.com/denilsonbomjesus/comandos-git)  
+> Esse material aborda os principais comandos, conceitos fundamentais e boas práticas para iniciantes.
+
 ## Relatório de Pesquisa Detalhado: Gerenciamento de Repositórios GitHub – Movendo, Transferindo e Bifurcando para Organizações
 
 Este relatório detalha os processos e considerações envolvidas no gerenciamento de repositórios GitHub, especificamente focando na **movimentação**, **transferência de propriedade** e **bifurcação (fork)** de repositórios de uma conta pessoal para uma organização. Ele aborda cenários de repositórios **privados** e **públicos**, e discute a manutenção do histórico de commits, um aspecto crucial para a continuidade do projeto. A perspectiva é de um administrador (dono) da organização, com outros donos e membros presentes.
