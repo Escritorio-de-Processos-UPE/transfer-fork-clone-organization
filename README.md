@@ -1,7 +1,7 @@
 > **Referência Complementar:**  
-> Para um guia introdutório sobre o uso básico do Git, consulte o repositório:  
-> [comandos-git – Tutorial Básico de Git](https://github.com/denilsonbomjesus/comandos-git)  
-> Esse material aborda os principais comandos, conceitos fundamentais e boas práticas para iniciantes.
+> Para um guia completo sobre o uso do Git e do Github, consulte o repositório:  
+> [treinamento-git-github – Treinamento Completo de Git e Github](https://github.com/denilsonbomjesus/treinamento-git-github)  
+> Esse material aborda os principais comandos, conceitos fundamentais e boas práticas.
 
 ## Relatório de Pesquisa Detalhado: Gerenciamento de Repositórios GitHub – Movendo, Transferindo e Bifurcando para Organizações
 
